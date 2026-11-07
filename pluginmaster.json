@@ -24,6 +24,7 @@
         "Punchline": "Counts the pots and food you use in duties.",
         "AcceptsFeedback": true
     },
+	
 	{
 		"Author": "Jokerking0",
 		"Name": "Roulette Tracker",
@@ -41,13 +42,14 @@
 		"DalamudApiLevel": 15,
 		"LoadRequiredState": 0,
 		"IsHide": false,
-        "IsTestingExclusive": false,
+		"IsTestingExclusive": false,
 		"DownloadLinkInstall": "https://github.com/Jokerking0/RouletteTracker/releases/latest/download/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Jokerking0/RouletteTracker/releases/latest/download/latest.zip",
+		"DownloadLinkUpdate": "https://github.com/Jokerking0/RouletteTracker/releases/latest/download/latest.zip",
 		"LoadSync": false,
 		"CanUnloadAsync": false,
 		"LoadPriority": 0,
 		"Punchline": "Track duty roulette clears, failures and clear times.",
 		"AcceptsFeedback": true
 	}
+	
 ]
