@@ -1,0 +1,53 @@
+[
+    {
+        "Author": "Jokerking0",
+        "Name": "Consumable Tracker",
+        "InternalName": "ConsumableTracker",
+        "AssemblyVersion": "1.0.2.0",
+        "Description": "Tracks your own potion and food buff usage per duty, with local totals. Open with /pots.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/Jokerking0/Consumable-Tracker",
+        "Tags": [
+            "utility",
+            "tracker"
+        ],
+        "DalamudApiLevel": 15,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "IconUrl": "https://raw.githubusercontent.com/Jokerking0/Consumable-Tracker/refs/heads/master/images/burger.png",
+        "DownloadLinkInstall": "https://github.com/Jokerking0/Consumable-Tracker/releases/latest/download/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Jokerking0/Consumable-Tracker/releases/latest/download/latest.zip",
+        "Punchline": "Counts the pots and food you use in duties.",
+        "AcceptsFeedback": true
+    },
+	{
+		"Author": "Jokerking0",
+		"Name": "Roulette Tracker",
+		"InternalName": "RouletteTracker",
+		"AssemblyVersion": "1.0.0.0",
+		"Description": "Records every duty roulette run (success or failure), then shows totals, success rate, and average/median clear time per roulette and per duty. All data is stored locally.",
+		"ApplicableVersion": "any",
+		"RepoUrl": "https://github.com/Jokerking0/RouletteTracker",
+		"Tags": [
+			"duty",
+			"roulette",
+			"tracker",
+			"statistics"
+		],
+		"DalamudApiLevel": 15,
+		"LoadRequiredState": 0,
+		"IsHide": false,
+        "IsTestingExclusive": false,
+		"DownloadLinkInstall": "https://github.com/Jokerking0/RouletteTracker/releases/latest/download/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Jokerking0/RouletteTracker/releases/latest/download/latest.zip",
+		"LoadSync": false,
+		"CanUnloadAsync": false,
+		"LoadPriority": 0,
+		"Punchline": "Track duty roulette clears, failures and clear times.",
+		"AcceptsFeedback": true
+	}
+]
